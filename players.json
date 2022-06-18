@@ -1,0 +1,214 @@
+{
+  "players": [
+      {
+        "name": "Marcelo Boeck",
+        "isFortalezaPlayer": true,
+        "isIdol": true,
+        "isIconic": false,
+        "isCurrentFortalezaPlayer": true
+      },
+      {
+        "name": "Fernando Miguel",
+        "isFortalezaPlayer": true,
+        "isIdol": false,
+        "isIconic": false,
+        "isCurrentFortalezaPlayer": true
+      },
+      {
+        "name": "Max Walef",
+        "isFortalezaPlayer": true,
+        "isIdol": false,
+        "isIconic": false,
+        "isCurrentFortalezaPlayer": true
+      },
+      {
+        "name": "Kennedy",
+        "isFortalezaPlayer": true,
+        "isIdol": false,
+        "isIconic": false,
+        "isCurrentFortalezaPlayer": true
+      },
+      {
+        "name": "Landázuri",
+        "isFortalezaPlayer": true,
+        "isIdol": false,
+        "isIconic": false,
+        "isCurrentFortalezaPlayer": true
+      },
+      {
+        "name": "Titi",
+        "isFortalezaPlayer": true,
+        "isIdol": false,
+        "isIconic": false,
+        "isCurrentFortalezaPlayer": true
+      },
+      {
+        "name": "Marcelo Benevenuto",
+        "isFortalezaPlayer": true,
+        "isIdol": false,
+        "isIconic": false,
+        "isCurrentFortalezaPlayer": true
+      },
+      {
+        "name": "Brayan Ceballos",
+        "isFortalezaPlayer": true,
+        "isIdol": false,
+        "isIconic": false,
+        "isCurrentFortalezaPlayer": true
+      },
+      {
+        "name": "Landázuri",
+        "isFortalezaPlayer": true,
+        "isIdol": false,
+        "isIconic": false,
+        "isCurrentFortalezaPlayer": true
+      },
+      {
+        "name": "Habraão",
+        "isFortalezaPlayer": true,
+        "isIdol": false,
+        "isIconic": false,
+        "isCurrentFortalezaPlayer": true
+      },
+      {
+        "name": "Tinga",
+        "isFortalezaPlayer": true,
+        "isIdol": true,
+        "isIconic": false,
+        "isCurrentFortalezaPlayer": true
+      },
+      {
+        "name": "Vitor Ricardo",
+        "isFortalezaPlayer": true,
+        "isIdol": false,
+        "isIconic": false,
+        "isCurrentFortalezaPlayer": true
+      },
+      {
+        "name": "Juninho Capixaba",
+        "isFortalezaPlayer": true,
+        "isIdol": false,
+        "isIconic": false,
+        "isCurrentFortalezaPlayer": true
+      },
+      {
+        "name": "Matheus Jussa",
+        "isFortalezaPlayer": true,
+        "isIdol": false,
+        "isIconic": false,
+        "isCurrentFortalezaPlayer": true
+      },
+      {
+        "name": "Ronald",
+        "isFortalezaPlayer": true,
+        "isIdol": false,
+        "isIconic": false,
+        "isCurrentFortalezaPlayer": true
+      },
+      {
+        "name": "Felipe Maranguape",
+        "isFortalezaPlayer": true,
+        "isIdol": true,
+        "isIconic": false,
+        "isCurrentFortalezaPlayer": true
+      },
+      {
+        "name": "Zé Welison",
+        "isFortalezaPlayer": true,
+        "isIdol": false,
+        "isIconic": false,
+        "isCurrentFortalezaPlayer": true
+      },
+      {
+        "name": "Hércules",
+        "isFortalezaPlayer": true,
+        "isIdol": false,
+        "isIconic": false,
+        "isCurrentFortalezaPlayer": true
+      },
+      {
+        "name": "Lucas Crispim",
+        "isFortalezaPlayer": true,
+        "isIdol": false,
+        "isIconic": false,
+        "isCurrentFortalezaPlayer": true
+      },
+      {
+        "name": "Lucas Lima",
+        "isFortalezaPlayer": true,
+        "isIdol": false,
+        "isIconic": false,
+        "isCurrentFortalezaPlayer": true
+      },
+      {
+        "name": "Sammuel",
+        "isFortalezaPlayer": true,
+        "isIdol": false,
+        "isIconic": false,
+        "isCurrentFortalezaPlayer": true
+      },
+      {
+        "name": "Matheus Vargas",
+        "isFortalezaPlayer": true,
+        "isIdol": false,
+        "isIconic": true,
+        "isCurrentFortalezaPlayer": true
+      },
+      {
+        "name": "Yago Pikachu",
+        "isFortalezaPlayer": true,
+        "isIdol": false,
+        "isIconic": false,
+        "isCurrentFortalezaPlayer": true
+      },
+      {
+        "name": "Robson",
+        "isFortalezaPlayer": true,
+        "isIdol": false,
+        "isIconic": true,
+        "isCurrentFortalezaPlayer": true
+      },
+      {
+        "name": "Silvio Romero",
+        "isFortalezaPlayer": true,
+        "isIdol": false,
+        "isIconic": false,
+        "isCurrentFortalezaPlayer": true
+      },
+      {
+        "name": "Romarinho",
+        "isFortalezaPlayer": true,
+        "isIdol": false,
+        "isIconic": false,
+        "isCurrentFortalezaPlayer": true
+      },
+      {
+        "name": "Moisés",
+        "isFortalezaPlayer": true,
+        "isIdol": false,
+        "isIconic": false,
+        "isCurrentFortalezaPlayer": true
+      },
+      {
+        "name": "Valentin Depietri",
+        "isFortalezaPlayer": true,
+        "isIdol": false,
+        "isIconic": false,
+        "isCurrentFortalezaPlayer": true
+      },
+      {
+        "name": "Igor Torres",
+        "isFortalezaPlayer": true,
+        "isIdol": false,
+        "isIconic": false,
+        "isCurrentFortalezaPlayer": true
+      },
+      {
+        "name": "Renato Kayzer",
+        "isFortalezaPlayer": true,
+        "isIdol": false,
+        "isIconic": false,
+        "isCurrentFortalezaPlayer": false
+      }
+  ]
+}
