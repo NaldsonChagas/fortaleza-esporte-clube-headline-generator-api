@@ -1,1 +1,133 @@
-
+{
+  "teams": [
+    {
+      "name": "Palmeiras"
+    },
+    {
+      "name": "Corinthians"
+    },
+    {
+      "Athletico": ""
+    },
+    {
+      "name": "Atlético Mineiro"
+    },
+    {
+      "name": "Internacional"
+    },
+    {
+      "name": "Fluminense"
+    },
+    {
+      "name": "Botafogo"
+    },
+    {
+      "name": "Santos"
+    },
+    {
+      "name": "São Paulo"
+    },
+    {
+      "name": "Bragantino"
+    },
+    {
+      "name": "Avaí"
+    },
+    {
+      "name": "Atlético Goianiense"
+    },
+    {
+      "name": "Ceará"
+    },
+    {
+      "name": "Flamengo"
+    },
+    {
+      "name": "Coritiba"
+    },
+    {
+      "name": "América Mineiro"
+    },
+    {
+      "name": "Goiás"
+    },
+    {
+      "name": "Cuiabá"
+    },
+    {
+      "name": "Juventude"
+    },
+    {
+      "name": "Cruzeiro"
+    },
+    {
+      "name": "Vasco"
+    },
+    {
+      "name": "Bahia"
+    },
+    {
+      "name": "Grêmio"
+    },
+    {
+      "name": "Sport"
+    },
+    {
+      "name": "Tombense"
+    },
+    {
+      "name": "Brusque"
+    },
+    {
+      "name": "Operário"
+    },
+    {
+      "name": "Criciúma"
+    },
+    {
+      "name": "Sampaio Corrêa"
+    },
+    {
+      "name": "Londrina"
+    },
+    {
+      "name": "CRB"
+    },
+    {
+      "name": "CRB"
+    },
+    {
+      "name": "Chapecoense"
+    },
+    {
+      "name": "Ituano"
+    },
+    {
+      "name": "Novorizontino"
+    },
+    {
+      "name": "CSA"
+    },
+    {
+      "name": "Náutico"
+    },
+    {
+      "name": "Guarani"
+    },
+    {
+      "name": "Ponte Preta"
+    },
+    {
+      "name": "Vila Nova"
+    },
+    {
+      "name": "Águia de Marabá"
+    },
+    {
+      "name": "Botafogo da Paraíba"
+    },
+    {
+      "name": "Colo-Colo"
+    }
+  ]
+}
