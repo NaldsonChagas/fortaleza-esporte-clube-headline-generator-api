@@ -209,6 +209,55 @@
         "isIdol": false,
         "isIconic": false,
         "isCurrentFortalezaPlayer": false
+      },
+      {
+        "name": "Angelo Henriquez",
+        "isFortalezaPlayer": true,
+        "isIdol": false,
+        "isIconic": false,
+        "isCurrentFortalezaPlayer": false
+      },
+      {
+        "name": "Rinaldo",
+        "isFortalezaPlayer": true,
+        "isIdol": false,
+        "isIconic": true,
+        "isCurrentFortalezaPlayer": false
+      },
+      {
+        "name": "Clodoaldo",
+        "isFortalezaPlayer": true,
+        "isIdol": true,
+        "isIconic": true,
+        "isCurrentFortalezaPlayer": false
+      },
+      {
+        "name": "Dude",
+        "isFortalezaPlayer": true,
+        "isIdol": true,
+        "isIconic": false,
+        "isCurrentFortalezaPlayer": false
+      },
+      {
+        "name": "Bosco",
+        "isFortalezaPlayer": true,
+        "isIdol": true,
+        "isIconic": false,
+        "isCurrentFortalezaPlayer": false
+      },
+      {
+        "name": "Assisinho",
+        "isFortalezaPlayer": true,
+        "isIdol": false,
+        "isIconic": true,
+        "isCurrentFortalezaPlayer": false
+      },
+      {
+        "name": "Welington Paulista",
+        "isFortalezaPlayer": true,
+        "isIdol": false,
+        "isIconic": false,
+        "isCurrentFortalezaPlayer": false
       }
   ]
 }
